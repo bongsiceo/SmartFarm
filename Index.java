@@ -5,5 +5,6 @@ public class Index {
   
   public setIndexer(int indexer) {
     this indexer = indexer;
+    System.out.println("일단 다녀갑니당");
   }
 }
